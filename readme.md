@@ -22,6 +22,7 @@
 
 ## 使い方
 - [こちら](https://github.com/yamamori-yamori/manga-edit/raw/refs/heads/main/mangaedit.zip)よりダウンロードしたmangaeditのzipを解凍し、index.htmlをクリックしてください。
+  または、 [作者HP](https://yamamori-yamori.github.io/mypage/)から「WEB版」をご使用ください
 - zip中のMANUAL.html クリックまたは、画面右上の「？」を押すとヘルプ表示です。
 - 「サンプルだよ.manga.json」はサンプルセーブファイルです（スクリーンショットのモノです）
 - 「いまある画像にちょっと吹き出しを付けたいだけ」という用途では、最初の紙を決める画面に直接画像をドロップしてください。
