@@ -21,7 +21,7 @@
 - セーブ・ロード、別画面で開いたこのアプリ間でコピー＆ペーストできます。
 
 ## 使い方
-- 右の「Releases」よりダウンロードしたmangaeditのzipを解凍し、index.htmlをクリックしてください。
+- [こちら](https://github.com/yamamori-yamori/manga-edit/raw/refs/heads/main/mangaedit.zip)よりダウンロードしたmangaeditのzipを解凍し、index.htmlをクリックしてください。
 - zip中のMANUAL.html クリックまたは、画面右上の「？」を押すとヘルプ表示です。
 - 「サンプルだよ.manga.json」はサンプルセーブファイルです（スクリーンショットのモノです）
 - 「いまある画像にちょっと吹き出しを付けたいだけ」という用途では、最初の紙を決める画面に直接画像をドロップしてください。
