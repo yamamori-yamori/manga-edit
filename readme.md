@@ -28,6 +28,13 @@
 
 ※セキュリティソフトのCrowdStrikeがあるとJavascriptを誤検知してzipが開けないかもしれません。その場合はpowershellのExpand-Archiveコマンドをご使用ください。
 
+---
+
+履歴
+- 4.4 公開
+- 4.4.1 effect追加
+
+
 ## ――――
 
 ### 「ろりたけんじ」の名前でも小説書いてます　https://x.com/loliloli_kenji
